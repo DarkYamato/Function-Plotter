@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Function-Plotter/static/css/main.f11a5193.chunk.css",
+    "main.js": "/Function-Plotter/static/js/main.596286ad.chunk.js",
+    "main.js.map": "/Function-Plotter/static/js/main.596286ad.chunk.js.map",
+    "runtime-main.js": "/Function-Plotter/static/js/runtime-main.7861f789.js",
+    "runtime-main.js.map": "/Function-Plotter/static/js/runtime-main.7861f789.js.map",
+    "static/js/2.cef6181e.chunk.js": "/Function-Plotter/static/js/2.cef6181e.chunk.js",
+    "static/js/2.cef6181e.chunk.js.map": "/Function-Plotter/static/js/2.cef6181e.chunk.js.map",
+    "index.html": "/Function-Plotter/index.html",
+    "precache-manifest.b3f46414a71f2649ddf20ee5b2452638.js": "/Function-Plotter/precache-manifest.b3f46414a71f2649ddf20ee5b2452638.js",
+    "service-worker.js": "/Function-Plotter/service-worker.js",
+    "static/css/main.f11a5193.chunk.css.map": "/Function-Plotter/static/css/main.f11a5193.chunk.css.map",
+    "static/js/2.cef6181e.chunk.js.LICENSE.txt": "/Function-Plotter/static/js/2.cef6181e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7861f789.js",
+    "static/js/2.cef6181e.chunk.js",
+    "static/css/main.f11a5193.chunk.css",
+    "static/js/main.596286ad.chunk.js"
+  ]
+}
