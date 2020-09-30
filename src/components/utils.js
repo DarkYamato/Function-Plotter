@@ -1,0 +1,21 @@
+export const appId = "GRKYPK-JEAA8LAV27";
+export const allowedSymbols = [
+  "0",
+  "1",
+  "2",
+  "3",
+  "4",
+  "5",
+  "6",
+  "7",
+  "8",
+  "9",
+  "-",
+  "+",
+  "/",
+  "*",
+  "^",
+  "(",
+  ")",
+  "x",
+];
