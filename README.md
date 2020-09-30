@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Calculator application that allow you to enter a math expression with one variable `x`,
 set the range of values of this variable and plot the function.
-this app supports following operators (+, -, /, \*, ^, sqrt, (, ))
+This app supports following operators (+, -, /, \*, ^, sqrt, (, ))
 
-example expressions:
+Example expressions:
 
 - `x^2`
 - `(2+3)*x`
