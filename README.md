@@ -1,6 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Function plotter
+## Function-plotter
+
+Calculator application that allow you to enter a math expression with one variable `x`,
+set the range of values of this variable and plot the function.
+this app supports following operators (+, -, /, \*, ^, sqrt, (, ))
+
+example expressions:
+
+- `x^2`
+- `(2+3)*x`
+- `x*(-2*x^2)`
+- `sqrt(x^2)`
 
 In the project directory, you can run:
 
